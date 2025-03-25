@@ -6,5 +6,3 @@ Let's connect and discuss how we can create value together!
   
 Here you'll find a colection of various data science, machine learning, and analytical projects that I've worked on. Each project showcase my ability to solve real-world problems using data-driven techniques. The project are listed below, and i invite you to explore them below in details.
 
-TABLE OF CONTENTS
-* 
